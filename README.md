@@ -11,9 +11,9 @@
 **Summary Analysis**: 
 |                       | Vine Customer                  | Non-Vine Customer  |
 | -------------         | -------------                  | -------------      |
-| Number                | 3137                           | 2299036            | 
-| Percentage            | 0.14%                          | 99.86%             | 
-| Average star rating   | 4.37                           | 4.24               |
+| Number                | 27                             | 8734            | 
+| Percentage            | 48.14%                         | 45.13%             | 
+| Average star rating   | 4.40                           | 3.67               |
 | Top Product of VC*    | ---                            | Same score as VC   |
 | Low Product of VC*    | ---                            | Same score as VC   |
 | Top Product of NV*    | Not purchased                  | ---                |
